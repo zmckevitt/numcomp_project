@@ -11,7 +11,7 @@ Zygote: https://github.com/FluxML/Zygote.jl.git
 
 ## Experiments
 
-Evaluate algorithmic differention for different rootfinding methods using Enzyme and Zygote. Diffrent methods include Halley's, Golbabai-Jacobi, Newton's, Bisection, etc. With these differentiations, collect multiple benchmarks (i.e. timing, overhead, LLVM benchmarks?) for each method's differentiation using each tool. Assume correctness of both Enzyme and Zygote. 
+Evaluate algorithmic differention for different rootfinding methods using Enzyme and Zygote. Diffrent methods include Halley's, Golbabai-Javidi, Newton's, Bisection, etc. With these differentiations, collect multiple benchmarks (i.e. timing, overhead, LLVM benchmarks?) for each method's differentiation using each tool. Assume correctness of both Enzyme and Zygote. 
 
 ## Analysis
 
